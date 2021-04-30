@@ -5,3 +5,5 @@ This code is a 3D model of a fictitious planet:
 https://github.com/Bocksmin/MAGD-Github-Assignment-/find/gh-page-4
 This code is a low-wuality meme of a famous JoJo's scene:
 https://github.com/Bocksmin/MAGD-Github-Assignment-/find/gh-page-3
+This code is a randomized fruit tree:
+https://github.com/Bocksmin/MAGD-Github-Assignment-/find/gh-page-2
